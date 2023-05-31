@@ -22,7 +22,7 @@ function removenumbers2() {
             outputnumber.push(currentCharacter)
         }
     }
-    document.getElementById("ligma").innerHTML = outputnumber.join("")
+    document.getElementById("removedText").innerHTML = outputnumber.join("")
 }
 
 
